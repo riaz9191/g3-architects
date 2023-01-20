@@ -320,7 +320,7 @@ main {
     display: grid;
     gap: 3px;
     grid-template-columns: repeat(2,1fr);
-    
+    margin: 0;
   }
   .features-img .img img{
     width: 100%;
@@ -380,6 +380,7 @@ main {
     
     width: 100%;
   }
+  
   .footer{
     margin: 0;
     padding: 0;
