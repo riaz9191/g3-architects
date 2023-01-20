@@ -59,7 +59,7 @@ nav a {
 }
 
 .btn-primary {
-  margin-top: 33px;
+  margin-top: 30px;
   color: white;
   font-weight: 550;
   font-size: 16px;
@@ -342,6 +342,7 @@ main {
   }
   .btn-primary{
     margin: 0;
+    margin-top: 30px;
   }
   .facts,.sponsors{
     width: 100% !important;
